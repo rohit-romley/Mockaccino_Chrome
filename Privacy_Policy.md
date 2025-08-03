@@ -1,5 +1,3 @@
----
-
 # Mockaccino Chrome Extension - Privacy Policy
 
 **Last Updated:** January 2025
@@ -115,5 +113,3 @@ While this extension is designed for global use, data is processed and stored in
 
 **Extension Version:** 1.0.0  
 **Policy Version:** 1.0  
-
----
